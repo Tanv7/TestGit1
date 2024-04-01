@@ -22,4 +22,13 @@ public class HelloApplication extends Application {
     public static void main(String[] args) {
         launch();
     }
+    class Point{
+        double x,y;
+        public Point (double x.doubley) {
+            this.x = x;
+            this.y = y;
+        }
+
+        }
+    }
 }
