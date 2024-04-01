@@ -24,7 +24,7 @@ public class HelloApplication extends Application {
     }
     class Point{
         double x,y;
-        public Point (double x.doubley) {
+        public Point (double x, double y) {
             this.x = x;
             this.y = y;
         }
