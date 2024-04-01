@@ -15,6 +15,8 @@ public class Main{
         }
         }
         class Point{
-    double
+    double x;
+    double y;
+
     }
 }
