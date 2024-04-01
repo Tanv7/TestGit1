@@ -12,11 +12,16 @@ public class Main{
         Point p= new Point (6.8);
          Rectangle rect= newRectangle (10,15);
          System.out.println ("площадь прямоугольника"+ rect.getArea());
+
+         int a= in.nextInt();
+         int b= in.nextInt();
+         int S=a*b;
+
+         System.out.println("S=+s+" cm^2);
+
         }
         }
-        class Point{
-    double x;
-    double y;
+
 
     }
 }
